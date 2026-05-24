@@ -20,19 +20,19 @@ Transaction records
 
 Characteristics:
 
-Fixed schema (same structure every time)
+- Fixed schema (same structure every time)
 
-Easy to store in relational databases
+- Easy to store in relational databases
 
-Easy to query using SQL
+- Easy to query using SQL
 
 What Data Engineering Does:
 
-Designs schemas and relationships
+- Designs schemas and relationships
 
-Enforces rules (constraints)
+- Enforces rules (constraints)
 
-Optimizes storage and queries
+- Optimizes storage and queries
 
 Creates reliable tables
 
@@ -43,11 +43,11 @@ Creates reliable tables
 Unstructured data has no fixed format and is more flexible. It includes large and complex data types.
 Examples:
 
-Documents
+- Documents
 
-Images
+- Images
 
-Videos
+- Videos
 
 Social media posts
 
@@ -55,9 +55,9 @@ Social media posts
 
 Characteristics:
 
-No predefined structure
+- No predefined structure
 
-Difficult to search and analyze directly
+- Difficult to search and analyze directly
 
 What Data Engineering Does:
 
@@ -76,21 +76,21 @@ Prepares it for AI and machine learning
 Semi-structured data is a mix of both structured and unstructured data. It has some structure, but not a fixed schema.
 Examples:
 
-JSON
+- JSON
 
-XML
+- XML
 
-API responses
+- API responses
 
-Application logs
+- Application logs
 
 Characteristics:
 
-Flexible format
+- Flexible format
 
-Fields may change over time
+- Fields may change over time
 
-Can be nested (complex structure)
+- Can be nested (complex structure)
 
 What Data Engineering Does:
 
@@ -166,7 +166,9 @@ Modern organizations must handle all three data types together.
 👉 Why?
 
 Structured data → business reporting
+
 Semi-structured → system logs, APIs
+
 Unstructured → customer behavior, media
 
 👉 Combining all of them allows:
