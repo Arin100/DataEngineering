@@ -1,4 +1,4 @@
-#Introduction to DATA ENGINEERING
+# Introduction to DATA ENGINEERING
 
 Data engineering is the practice of designing, building and maintaining systems that collect, store, transform and deliver data for analysis, 
 reporting, machine learning and decision-making. It’s about making sure the data actually shows up, on time, and in good shape.
