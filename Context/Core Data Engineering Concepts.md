@@ -14,7 +14,9 @@ A data pipeline typically follows this flow:
 This structured flow ensures that data moves smoothly from raw input to useful output.
 
 🔄 How Data Pipelines Work
+
 📌 1. Data Sources
+
 Data pipelines begin by collecting data from multiple sources. These sources can include application databases, APIs, event streams, 
 marketing platforms, or even flat files. In most real-world systems, data comes from many different places and formats.
 
