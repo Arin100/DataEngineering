@@ -5,11 +5,11 @@ Indexes
 1. Context
 2. SQL (mostly Postgresql, MS sql server)
 3. Data Warehouse
-   i. Diff bw DB, DW, DL, LH, DM
-   ii. Data warehouse architecture
-   iii. Dimensional modeling
-   iv. Facts
-   v. Dimensions
-   vi. ETL process and tools
-   vii. Optimization
+   - Diff bw DB, DW, DL, LH, DM
+   - Data warehouse architecture
+   - Dimensional modeling
+   - Facts
+   - Dimensions
+   - ETL process and tools
+   - Optimization
 4. Azure Data Factory
